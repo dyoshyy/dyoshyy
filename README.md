@@ -7,8 +7,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,flask,ts,react,nodejs,express,prisma)](https://skillicons.dev)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyoshyy&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=dyoshyy&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyoshyy&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=dyoshyy&theme=onedark&show_icons=ture" />
 </p>
 <!---
 dyoshyy/dyoshyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
