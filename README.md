@@ -4,9 +4,8 @@
 - 2024/02 サポーターズ 技育キャンプ マンスリーハッカソンVol.15にて、習慣化をゲーム感覚で楽しむアプリ[「Rhythmate」](https://github.com/ayanami77/Rhythmate-Service)の開発（バックエンドメイン）に取り組み、努力賞を頂きました。
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,flask,ts,react,nodejs,express,prisma)](https://skillicons.dev)
-
-<p align="left"> 
+<p align="center"> 
+  [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,flask,ts,react,nodejs,express,prisma)](https://skillicons.dev)
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyoshyy&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=dyoshyy&theme=onedark&show_icons=ture" />
 </p>
