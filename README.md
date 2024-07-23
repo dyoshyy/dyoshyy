@@ -1,8 +1,9 @@
-## Recent activities
-- 2024/05 [「Rhythmate」](https://github.com/ayanami77/Rhythmate-Web)を3ヶ月弱継続開発後、サポーターズ 技育博 Vol.2 に出場し、**GMOインターネットグループ賞**を頂きました！
-- 2024/02 サポーターズ 技育キャンプ マンスリーハッカソンVol.15にて、習慣化をゲーム感覚で楽しむアプリ[「Rhythmate」](https://github.com/ayanami77/Rhythmate-Web)の開発に取り組み、努力賞を頂きました。
-- 2023/02 北海道大学集中講義「デザイン思考、ハッカソンを用いたプロジェクト学習を通じ、DX・イノベーティブな取り組みを学ぼう！」で、[片親家庭の教育を支援するアプリ](https://github.com/dyoshyy/hackathon_team_nature)のチーム開発に取り組みました。
-- 2023/01 GeekSalon AIコースで、感情を音楽に変えるアプリ[「Senti2Sound」](https://github.com/dyoshyy/Senti2Sound)の個人開発に取り組み、コース内評価１位をいただきました。
+## Recent Activities
+- **May 2024**: Continued development of ["Rhythmate"](https://github.com/ayanami77/Rhythmate-Web) for nearly three months and participated in "サポーターズ技育博 Vol.2" , where we received the **GMO Internet Group Award**!
+- **February 2024**: Worked on developing the app ["Rhythmate"](https://github.com/ayanami77/Rhythmate-Web), which gamifies the process of building habits, and received the Effort Award at the "サポーターズ 技育キャンプ マンスリーハッカソン Vol.15".
+- **February 2023**: Participated in a team project to develop an app that supports education for single-parent families during a Hokkaido University intensive course, "Learn DX and Innovative Approaches through Design Thinking and Hackathons." [Project link](https://github.com/dyoshyy/hackathon_team_nature).
+- **January 2023**: Developed an app that converts emotions into music called ["Senti2Sound"](https://github.com/dyoshyy/Senti2Sound) as an individual project in the GeekSalon AI course, and received the highest evaluation within the course.
+
 
 ## My skills
 <p align="center"> 
