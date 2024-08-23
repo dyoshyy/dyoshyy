@@ -1,5 +1,5 @@
 ## Recent Activities
-- **08/2024**: Participated in the freee summer internship 2024 term 1 as a member of freee申告
+- **08/2024**: Participated in the freee summer internship 2024 as a member of freee申告
 - **05/2024**: Continued development of ["Rhythmate"](https://github.com/ayanami77/Rhythmate-Web) for nearly three months and participated in "サポーターズ技育博 Vol.2" , where we received the **GMO Internet Group Award**!
 - **02/2024**: Worked on developing the app ["Rhythmate"](https://github.com/ayanami77/Rhythmate-Web), which gamifies the process of building habits, and received the Effort Award at the "サポーターズ 技育キャンプ マンスリーハッカソン Vol.15".
 - **02/2023**: Participated in a team project to develop an app that supports education for single-parent families during a Hokkaido University intensive course, "Learn DX and Innovative Approaches through Design Thinking and Hackathons." [Project link](https://github.com/dyoshyy/hackathon_team_nature).
