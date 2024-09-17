@@ -6,6 +6,8 @@
 - **01/2023**: Developed an app that converts emotions into music called ["Senti2Sound"](https://github.com/dyoshyy/Senti2Sound) as an individual project in the GeekSalon AI course, and received the highest evaluation within the course.
 
 ## My skills
+
+
 <p align="center"> 
   <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,go,ts,react,nodejs,express,prisma" />
 </p>
