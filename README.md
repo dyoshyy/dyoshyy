@@ -1,4 +1,5 @@
 ## Recent Activities
+- **10/2024**: Released ["CurlARC"](https://github.com/g-ohara/CurlArc-Web), a web application designed to revolutionize curling match recording and management.
 - **08/2024**: Participated in the freee summer internship 2024 as a member of freee申告
 - **05/2024**: Continued development of ["Rhythmate"](https://github.com/ayanami77/Rhythmate-Web) for nearly three months and participated in "サポーターズ技育博 Vol.2" , where we received the **GMO Internet Group Award**!
 - **02/2024**: Worked on developing the app ["Rhythmate"](https://github.com/ayanami77/Rhythmate-Web), which gamifies the process of building habits, and received the Effort Award at the "サポーターズ 技育キャンプ マンスリーハッカソン Vol.15".
