@@ -9,7 +9,7 @@
 
 
 <p align="center"> 
-  <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,go,ts,react,nodejs,express,prisma" />
+  <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,go,rails,ts,react,nextjs,nodejs,express,prisma" />
 </p>
 <p align="center"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyoshyy&layout=compact&show_icons=true&theme=onedark" />
