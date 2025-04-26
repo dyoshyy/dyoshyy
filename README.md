@@ -1,6 +1,7 @@
 ## 🚀 Recent Activities
 
 ### **2025**
+- **04**: Joined [Neurogica](https://github.com/Neurogica) Inc. as a ML engineer.
 - **03**: Joined Freee AI-shift team as an intern member.
 
 ### **2024**
