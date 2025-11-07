@@ -15,14 +15,6 @@
 - **02**: Created **[Rhythmate](https://github.com/ayanami77/Rhythmate-Web)** and received the **Effort Award** at **サポーターズ 技育キャンプ マンスリーハッカソン Vol.15**. 🏅  
   _Tech Stack: React, Express, TypeScript_
 
-### **2023**
-- **02**: Participated in a team project to develop an app supporting education for single-parent families during the **Hokkaido University Intensive Course**. 🎓  
-  - Project: **[Hackathon Team Nature](https://github.com/dyoshyy/hackathon_team_nature)**  
-  _Tech Stack: Design Thinking, Hackathon, Python, Flask_
-- **01**: Developed **[Senti2Sound](https://github.com/dyoshyy/Senti2Sound)**, an app that converts emotions into music, as part of the **GeekSalon AI Course**. 🎵  
-  - Received the **Highest Evaluation** within the course. 🌟  
-  _Tech Stack: Python, TensorFlow, Flask_
-
 ---
 
 ## 💻 My Skills
