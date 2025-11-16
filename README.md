@@ -17,16 +17,15 @@
 
 ---
 
-## 💻 My Skills
-
-### **Languages & Frameworks**
+## 💻 Skills
 <p align="center"> 
-  <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask" /> <br>
-  <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=go,ts,ruby,react,nextjs,express,prisma,rails," />
+  <img alt="Skills" height="" src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask" /> <br>
+  <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=go,ts,ruby,react,nextjs,express,prisma,rails," /> <br>
+  <img alt="Skills" height="60px" src="https://skillicons.dev/icons?i=aws,terraform" />
 </p>
-
-### **GitHub Stats**
 <p align="center"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyoshyy&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=dyoshyy&theme=onedark&show_icons=ture" />
 </p>
+
+
